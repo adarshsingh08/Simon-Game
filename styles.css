@@ -51,3 +51,11 @@ body {
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
+.link{
+  color: white;
+  text-decoration: none;
+}
+.adarsh{
+  text-decoration: none;
+  color: #FEF2BF;
+}
